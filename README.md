@@ -2,6 +2,8 @@
 
 A idéia é construir um pequeno arcade que possa ser transportado e montado por uma pessoa sem maiores dificuldades. Barato, de fácil manutenção/extensão e o mais livre possível. Tudo usado para criar o fliper vai ser disponibilizado para uso de outras pessoas que queiram criar o seu: software, planos de hardware, manuais de como montar.
 
+![Rascunho do Fliper](https://raw.github.com/marxistpokemon/Fliper/master/Imagens/Fliper1.jpg)
+
 Para [financiar](https://github.com/marxistpokemon/Fliper/wiki/Financiamento) o desenvolvimento do projeto e o custo de montar a primeira unidade, seria criado um projeto no **Catarse**. Quanto mais barato o custo desse projeto, melhor: a idéia é chegar num protótipo bem documentado e pronto. Daí pra frente, é outra história.
 
 Para mais detalhes, checar a [wiki](https://github.com/marxistpokemon/Fliper/wiki).
