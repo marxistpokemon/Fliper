@@ -27,10 +27,12 @@ O fliper não conta com nenhum mecanismo para cobrar pelos jogos. Isso fica a ca
 
 ## Inspiração
 
-Coisas doidas como o Winnitron, o Luggatron, o Achtung Arcade.
-
+Coisas como o Luggatron e o [Achtung Arcade](http://achtungarcade.com/).
 
 ![Luggatron](Imagens/luggatron.jpg)
+
+![Achtung Arcade](Imagens/achtung.png)
+
 
 ---
 
