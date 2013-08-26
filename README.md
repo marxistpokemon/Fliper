@@ -25,6 +25,15 @@ O fliper não conta com nenhum mecanismo para cobrar pelos jogos. Isso fica a ca
 
 ---
 
+## Inspiração
+
+Coisas doidas como o Winnitron, o Luggatron, o Achtung Arcade.
+
+
+![Luggatron](Imagens/luggatron.jpg)
+
+---
+
 ## Por que fazer um Catarse?
 
 Desenvolver um arcade tem seu custo material, especialmente por ainda não sabermos exatamente como ele vai ser. Por enquanto estão aqui apenas algumas idéias soltas.
