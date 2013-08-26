@@ -1,6 +1,6 @@
 # FLIPER!
 
-A idéia é construir um pequeno arcade que possa ser transportado e montado por uma pessoa sem maiores dificuldades. Barato, de fácil manutenção/extensão e o mais livre possível. Tudo usado para criar o fliper vai ser disponibilizado para uso de outras pessoas que queiram criar o seu: software, planos de hardware, manuais de como montar.
+A idéia é construir um pequeno arcade que possa ser transportado e montado por uma pessoa sem maiores dificuldades. Barato, de fácil manutenção/extensão e o mais livre possível. Tudo usado para criar o fliper vai ser disponibilizado para uso de outras pessoas que queiram criar o seu: software, planos de hardware, manuais de como montar. Esse modelo-base de fácil montagem serviria para que as pessoas depois criassem em cima de acordo com o que quiserem fazer.
 
 ![Rascunho do Fliper](https://raw.github.com/marxistpokemon/Fliper/master/Imagens/Fliper1.jpg)
 
@@ -12,7 +12,7 @@ Para mais detalhes, checar a [wiki](https://github.com/marxistpokemon/Fliper/wik
 
 ### Jogos
 
-Os jogos nesse fliper seriam jogos independentes, feitos tanto por brasileiros quanto por estrangeiros. O projeto não tem nenhuma preocupação em restringir quais jogos vão rodar em cada fliper. Isso é a cargo de quem montar/usar.
+Os jogos nesse fliper seriam jogos independentes, livres, feitos tanto por brasileiros quanto por estrangeiros. O projeto não tem nenhuma preocupação em restringir quais jogos vão rodar em cada fliper. Isso é a cargo de quem montar/usar.
 
 O fliper não conta com nenhum mecanismo para cobrar pelos jogos. Isso fica a cargo de cada pessoa que montar o seu. A versão inicial (protótipo do Catarse) só vai ter jogos gratuitos e não vai cobrar nem para jogadores nem para criadores colocarem seus jogos no sistema.
 
@@ -22,7 +22,7 @@ Na medida do possível, serão usadas tecnologias livres. Quanto mais aberto, me
 
 ### Possíveis usos
 
-1. Jogar em público / na rua / chamar gente
-2. Oficinas abertas de fazer jogos
-3. Protestos, ocupações, intervenções
-4. Eventos em geral
+1. Jogar em público / na rua / chamar gente;
+2. Oficinas abertas de fazer jogos;
+3. Protestos, ocupações, intervenções;
+4. Eventos em geral;
