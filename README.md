@@ -4,6 +4,8 @@ A idéia é construir um pequeno arcade que possa ser transportado e montado por
 
 Para [financiar](https://github.com/marxistpokemon/Fliper/wiki/Financiamento) o desenvolvimento do projeto e o custo de montar a primeira unidade, seria criado um projeto no **Catarse**. Quanto mais barato o custo desse projeto, melhor: a idéia é chegar num protótipo bem documentado e pronto. Daí pra frente, é outra história.
 
+Para mais detalhes, checar a [wiki](https://github.com/marxistpokemon/Fliper/wiki).
+
 ---
 
 ### Jogos
