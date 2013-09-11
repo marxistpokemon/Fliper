@@ -18,6 +18,7 @@
 
 Essa frente envolve a pesquisa, o desenho e a montagem do primeiro protótipo, assim como levantar preços.
 
+- **PC**: tenho pensado em um Raspberry Pi ou mesmo um dos mini-pcs da Gigabyte. A vantagem do Pi é o custo e tamanho, enquanto que a do Gigabyte é o fatod e já ter Windows e ser mais poderoso.
 - **Caixa**;
 	- Como fixar as coisas?
 	- Como garantir um acesso fácil à parte de dentro?
